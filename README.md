@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: "He" | "His"
+- 👨🏻‍💻 Programmer
+- 🎯 Go, P4, ...
+
+Please visit [subond.com](https://www.subond.com/) to find me.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusubond&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusubond&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusubond&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusubond&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusubond&theme=nord_bright)
